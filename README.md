@@ -2,7 +2,7 @@
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-![C/C++ CI - Build Status](https://github.com/99003721/AppliedSDLC_Calculator_N1/actions/workflows/c-cpp.yml/badge.svg)|![Cppcheck](https://github.com/99003721/AppliedSDLC_Calculator_N1/actions/workflows/cppcheck.yml/badge.svg) ![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/99003721/AppliedSDLC_Calculator_N1/actions/workflows/CodeQuality_Dynamic.yml/badge.svg) ![Codacy Security Scan](https://github.com/99003721/AppliedSDLC_Calculator_N1/actions/workflows/codacy-analysis.yml/badge.svg) | ![Unit Testing - Unity](https://github.com/99003721/AppliedSDLC_Calculator_N1/actions/workflows/unity.yml/badge.svg) |![Contribution Check - Git Inspector](https://github.com/99003721/AppliedSDLC_Calculator_N1/actions/workflows/gitinspector1.yml/badge.svg)
+[![C/C++ CI - Build Status](https://github.com/99003721/AppliedSDLC_Calculator_N1/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003721/AppliedSDLC_Calculator_N1/actions/workflows/c-cpp.yml)|[![Cppcheck](https://github.com/99003721/AppliedSDLC_Calculator_N1/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99003721/AppliedSDLC_Calculator_N1/actions/workflows/cppcheck.yml) [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/99003721/AppliedSDLC_Calculator_N1/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/99003721/AppliedSDLC_Calculator_N1/actions/workflows/CodeQuality_Dynamic.yml) [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/99003721/AppliedSDLC_Calculator_N1/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/99003721/AppliedSDLC_Calculator_N1/actions/workflows/CodeQuality_Dynamic.yml) | [![Unit Testing - Unity](https://github.com/99003721/AppliedSDLC_Calculator_N1/actions/workflows/unity.yml/badge.svg)](https://github.com/99003721/AppliedSDLC_Calculator_N1/actions/workflows/unity.yml) |[![Contribution Check - Git Inspector](https://github.com/99003721/AppliedSDLC_Calculator_N1/actions/workflows/gitinspector1.yml/badge.svg)](https://github.com/99003721/AppliedSDLC_Calculator_N1/actions/workflows/gitinspector1.yml) |
 
 ## Contributors List and Summary
 
@@ -10,7 +10,7 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 -------|---------|----------------|----------------|---------------|-------------|--------------
 99003720 | Jasleen   | Feature: Store,Recall, Combination, LCM    | 3 No     | 2 No   |11 No   |8 No     
 99003721 | Himanshu Kumar  | Feature: Exponentail,Factorial,cuberoot,pie    | 2 No     | 2 No   |5 No   |4 No   
-99003723 | Vipul Sakunia  | Feature: Conversion,Power,Pnc test plan&uml,    | 2 No     | 1 No   |8 No   |6 No   
+99003723 | Vipul Sakunia  | Feature: Permutation,Power,Conversion-Degree, Temperature    | 2 No     | 1 No   |8 No   |6 No   
 99003726 | Abhishek Guria  | Feature: Trigonometry,root,log,antilog    | 2 No     | 2 No   |5 No   |4 No   
 
 ## Challenges Faced and How Was It Overcome
