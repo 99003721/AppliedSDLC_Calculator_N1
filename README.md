@@ -13,6 +13,9 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 99003723 | Vipul Sakunia  | Feature: Permutation,Power,Conversion-Degree, Temperature    | 2 No     | 1 No   |8 No   |6 No   
 99003726 | Abhishek Guria  | Feature: Trigonometry,root,log,antilog    | 1 No     | 2 No   | 25 No   |25 No   
 
+## Contribution: GitInspector
+![Screenshot 2021-03-15 091500](https://user-images.githubusercontent.com/78869361/111101030-0e237180-856f-11eb-9f38-3f6d6f93c57d.png)
+
 ## Challenges Faced and How Was It Overcome
 
 1. Running the make file as its resolved by defining its correct path(.out for linux and -lm for math functions)
@@ -28,4 +31,4 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 3. [git inspector](https://github.com/ejwa/gitinspector.git)
 4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
 
-![Screenshot 2021-03-15 091500](https://user-images.githubusercontent.com/78869361/111101030-0e237180-856f-11eb-9f38-3f6d6f93c57d.png)
+
