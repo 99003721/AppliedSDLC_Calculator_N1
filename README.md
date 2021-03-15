@@ -11,7 +11,7 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 99003720 | Jasleen   | Feature: Store,Recall, Combination, LCM    | 3 No     | 2 No   |11 No   |8 No     
 99003721 | Himanshu Kumar  | Feature: Exponentail,Factorial,cuberoot,Log/Antilog    | 6 No     | 5 No   |6 No   |5 No   
 99003723 | Vipul Sakunia  | Feature: Permutation,Power,Conversion-Degree, Temperature    | 2 No     | 1 No   |8 No   |6 No   
-99003726 | Abhishek Guria  | Feature: Trigonometry,root,log,antilog    | 2 No     | 2 No   |5 No   |4 No   
+99003726 | Abhishek Guria  | Feature: Trigonometry,root,log,antilog    | 1 No     |  No   | 25 No   |25 No   
 
 ## Challenges Faced and How Was It Overcome
 
