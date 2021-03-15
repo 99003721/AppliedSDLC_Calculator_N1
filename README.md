@@ -9,7 +9,7 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
 99003720 | Jasleen Kaur Sethi  | Feature: Arithmetic Operation, Store,Recall, Combination, LCM,GCD   | 7 No     | 6 No   |38 No   |38 No     
-99003721 | Himanshu Kumar  | Feature: Exponentail,Factorial,cuberoot,Log/Antilog    | 6 No     | 5 No   |6 No   |5 No   
+99003721 | Himanshu Kumar  | Feature: Exponentail,Factorial,cuberoot,Log/Antilog    | 7 No     | 6 No   |23 No   |23 No   
 99003723 | Vipul Sakunia  | Feature: Permutation,Power,Conversion-Degree, Temperature    | 2 No     | 1 No   |8 No   |6 No   
 99003726 | Abhishek Guria  | Feature: Trigonometry,root,log,antilog    | 1 No     | 2 No   | 25 No   |25 No   
 
