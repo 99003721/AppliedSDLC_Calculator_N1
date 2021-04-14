@@ -63,9 +63,9 @@ In some aspects of astronomy, physics and chemistry.
 # Detail requirements
 ## High Level Requirements:
 
-|**id**  |**Requirments**  | **Description**  |**Status**  |
+|**ID**  |**Requirements**  | **Description**  |**Status**  |
 | --- | --- | --- | --- |
-|HL001 | CALCULATING NUMBERS | BASIC ARITHMETIC CALCULATION- Addition- Subtraction- Division- multiplication |Implemented |
+|HL001 | CALCULATING NUMBERS | BASIC ARITHMETIC CALCULATION- Addition- Subtraction- Division- multiplication |IMPLEMENTED |
 |HL002 |LOG ANTILOG & POWER OPERATIONS | SOLVING POWER FUNCTIONS AND LOG/ANTILOG OPERATIONS|IMPLEMENTED |
 |HL003 |TRIGONOMETRIC FUNCTIONS|- SINE- COSINE- TAN |IMPLEMENTED |
 |HL004 |PERMUTATION & COMBINATION |  PnC FORMULAE OUTPUTS |IMPLEMENTED|
