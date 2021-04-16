@@ -126,6 +126,5 @@ power:
 Conversion Of Units:
 |ID| Requirements  |Description| Status|
 |--|--|--|--|
-|COU_1 | Length conversion |converts input from cm to m &km|Implemented
-|COU_2|Temperature conversion |converts user input from Celcius to fahrenheit|Implemented
-|COU_3|Degree to radian conversion |converts one user input from deg to rad at a time|Implemented
+|COU_1|Temperature conversion |converts user input from Celcius to fahrenheit|Implemented
+|COU_2|Degree to radian conversion |converts one user input from deg to rad at a time|Implemented
