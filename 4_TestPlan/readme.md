@@ -19,9 +19,8 @@
 | L_13 | Base e not defined by user(by default, 10 for log and e for ln) | a=10 e=10 for log a | 1 | 1 | Requirement |
 | L_14 | ln x + ln y= ln(xy) where x>0 ; y>0 | x=3y=2 | 1.7916 | 1.7916 | Scenario |
 | L_15 | If b other than real positive no. For exp function | x=3 a=2 b=-2 | Error | Error | Boundary |
-| L_16 | Conversion of length units | cm | m | m | Requirement |
-| L_17 | Conversion of temperature unit | celsius | f | f | Requirement |
-| L_18 | Conversion of degree to radian | deg | rad | rad | Requirement |
+| L_16 | Conversion of temperature unit | celsius | f | f | Requirement |
+| L_17 | Conversion of degree to radian | deg | rad | rad | Requirement |
 
 
 
